@@ -37,3 +37,48 @@ Predicting the selling price of used cars using machine learning techniques.
 - Random Forest Regression
 
 ---
+## 🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
+
+---
+
+## 🎯 Learning Outcomes
+
+Through this internship, I gained hands-on experience in:
+
+- Data Preprocessing
+- Exploratory Data Analysis (EDA)
+- Machine Learning Algorithms
+- Model Evaluation
+- Overfitting and Generalization
+- Real-world Problem Solving
+- Project Documentation
+
+---
+
+## 📈 Key Highlights
+
+- Built multiple Machine Learning projects from scratch.
+- Performed complete data analysis workflows.
+- Compared different machine learning models.
+- Learned practical implementation of regression and predictive analytics.
+- Improved problem-solving and data visualization skills.
+
+---
+
+## 👩‍💻 Author
+
+Nayani
+
+Aspiring Data Scientist | Machine Learning Enthusiast
+
+---
+
+⭐ Thank you for visiting this repository!
