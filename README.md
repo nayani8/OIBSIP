@@ -1,75 +1,119 @@
-# OIBSIP
-Machine Learning Internship Projects completed under Oasis Infobyte (OIBSIP), including data analysis, predictive modeling, and real-world ML applications using Python and Scikit-learn.
-
 # 🌟 OIBSIP - Machine Learning Internship Projects
 
-This repository contains the Machine Learning projects completed as part of the Oasis Infobyte (OIBSIP) Internship Program.
+This repository contains the Machine Learning projects completed during my internship at Oasis Infobyte (OIBSIP).
 
-The objective of this internship was to gain practical experience in Machine Learning, Data Analysis, Data Visualization, and Model Building using Python and Scikit-learn.
+The objective of this internship was to gain hands-on experience in Machine Learning, Data Analysis, Data Visualization, Feature Engineering, and Model Evaluation using Python and Scikit-learn.
 
 ---
 
 ## 🚀 Internship Details
 
-- Organization: Oasis Infobyte
-- Domain: Machine Learning
-- Internship Type: Virtual Internship
-- Duration: Summer Internship 2026
+* Organization: Oasis Infobyte (OIBSIP)
+* Domain: Data Science
+* Internship Type: Virtual Internship
 
 ---
 
 ## 📂 Projects Included
 
-### 1. 🚗 Car Price Prediction
+### 🚗 1. Car Price Prediction
 
-Predicting the selling price of used cars using machine learning techniques.
+Built a regression model to predict the selling price of used cars based on features such as car age, present price, fuel type, transmission type, ownership history, and kilometers driven.
 
-#### Skills Used:
-- Data Cleaning
-- Feature Engineering
-- Exploratory Data Analysis (EDA)
-- Regression Models
-- Model Evaluation
+#### Key Highlights
 
-#### Algorithms:
-- Linear Regression
-- Ridge Regression
-- Random Forest Regression
+* Data Cleaning & Preprocessing
+* Feature Engineering (Car Age)
+* Exploratory Data Analysis (EDA)
+* Correlation Analysis
+* Model Comparison
+* Overfitting Analysis
+
+#### Models Used
+
+* Linear Regression
+* Ridge Regression
+* Random Forest Regression
 
 ---
+
+### 🌸 2. Iris Flower Classification
+
+Developed a classification model to predict Iris flower species using flower measurements such as sepal length, sepal width, petal length, and petal width.
+
+#### Key Highlights
+
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Classification Modeling
+* Model Comparison
+
+#### Models Used
+
+* Logistic Regression
+* K-Nearest Neighbors (KNN)
+* Random Forest Classifier
+
+---
+
+### 📺 3. Advertising Sales Prediction
+
+Built a machine learning model to predict product sales based on advertising expenditure across TV, Radio, and Newspaper marketing channels.
+
+#### Key Highlights
+
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+* Correlation Analysis
+* Feature Importance Analysis
+* Model Evaluation
+* Business Insights Generation
+
+#### Models Used
+
+* Linear Regression
+* Ridge Regression
+* Random Forest Regression
+
+---
+
 ## 🛠️ Technologies Used
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Jupyter Notebook
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+* Jupyter Notebook
 
 ---
 
-## 🎯 Learning Outcomes
+## 🎯 Skills Gained
 
-Through this internship, I gained hands-on experience in:
+Through these projects, I gained practical experience in:
 
-- Data Preprocessing
-- Exploratory Data Analysis (EDA)
-- Machine Learning Algorithms
-- Model Evaluation
-- Overfitting and Generalization
-- Real-world Problem Solving
-- Project Documentation
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+* Feature Engineering
+* Data Visualization
+* Regression Algorithms
+* Classification Algorithms
+* Model Evaluation
+* Overfitting Analysis
+* Feature Importance Analysis
+* Business Insights Generation
 
 ---
 
-## 📈 Key Highlights
+## 📈 Key Learning Outcomes
 
-- Built multiple Machine Learning projects from scratch.
-- Performed complete data analysis workflows.
-- Compared different machine learning models.
-- Learned practical implementation of regression and predictive analytics.
-- Improved problem-solving and data visualization skills.
+* Understanding the complete Machine Learning workflow.
+* Comparing multiple machine learning models.
+* Selecting models based on performance and generalization.
+* Transforming raw data into meaningful insights.
+* Building end-to-end machine learning projects.
 
 ---
 
@@ -77,8 +121,10 @@ Through this internship, I gained hands-on experience in:
 
 Nayani
 
-Aspiring Data Scientist | Machine Learning Enthusiast
+Machine Learning Enthusiast | Aspiring Data Scientist
+
+GitHub: https://github.com/nayani8
 
 ---
 
-⭐ Thank you for visiting this repository!
+⭐ If you found these projects useful, consider giving this repository a star!
